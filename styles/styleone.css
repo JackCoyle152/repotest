@@ -1,0 +1,90 @@
+header
+{
+    background-color: rgb(31, 30, 29);
+    padding : 10px
+}
+
+
+.product
+{
+    margin-left: 30%; 
+    margin-right: 30%;
+    border: 5px solid white;
+}
+
+
+h1{ margin: 5px; text-align: left; color: #09f31c;}
+
+h2{ position: center; color: #09f31c;}
+
+body
+{
+    background-color:black;
+    font-family: verdana;
+    margin:0;
+}
+
+p
+{
+    margin: 10px;
+    color: white;
+}
+
+footer
+{
+    padding: 0;
+    margin: 0;
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+    background-color: rgb(87, 88, 85);
+}
+
+footer p
+{
+    color: white;
+    text-align: center;
+}
+
+nav
+{
+    background-color: rgb(89, 92, 89);
+    padding: 5px;
+}
+
+nav ul
+{
+    text-align: center;
+    font-size: 1.2em;
+}
+
+nav ul li 
+{
+    list-style-type: none;
+    background-color: #b2b2b2;
+    display: inline;
+    padding: inline 15px;
+    margin: 5px;
+    border: 2px solid rgb(139, 3, 3);
+    border-radius: 60px;
+}
+
+nav ul li:hover
+{
+    background-color: rgb(216, 16, 16);
+    
+}
+
+
+
+nav ul li a 
+{
+color: rgba(255, 0, 0, 0.575);
+text-decoration: none;
+}
+
+section 
+{
+    position: relative;
+}
+
